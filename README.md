@@ -1,4 +1,4 @@
-# Topological Analysis of Immune Cell Subtypes Using Single-Cell RNA-seq and Persistent Homology
+# Topological Analysis of Immune Cell Subtypes Using Single-Cell RNA-seq
 
 This project demonstrates the application of **Topological Data Analysis (TDA)** and **single-cell RNA-seq analysis** to uncover biologically meaningful insights from high-dimensional omics data. Using the PBMC 3k dataset, we identify immune cell subtypes, visualize their relationships, and explore topological structures using Mapper.
 

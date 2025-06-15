@@ -2,7 +2,7 @@ name: tda_sc_env
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.11 # keep version low to work with leidenalg
   - scanpy
   - umap-learn
   - matplotlib
