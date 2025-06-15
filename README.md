@@ -22,5 +22,5 @@ This project demonstrates the application of **Topological Data Analysis (TDA)**
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tda_sc_omics.git
+   git clone https://github.com/amish-mishra/tda_sc_omics.git
    cd tda_sc_omics

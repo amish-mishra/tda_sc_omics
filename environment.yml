@@ -1,0 +1,17 @@
+name: tda_sc_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scanpy
+  - umap-learn
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - scikit-learn
+  - python-igraph
+  - leidenalg
+  - pip
+  - pip:
+      - kmapper
+      # - giotto-tda
